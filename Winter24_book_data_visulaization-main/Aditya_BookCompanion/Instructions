@@ -1,0 +1,9 @@
+The FlavorDB1.ipynb file contatins all the original/individual codes.
+
+The FlavorDB-combined.ipynb file contatins all the cobined codes, i.e. clickable interface that lets the users choose between multiple graphs/visualisation.
+
+FlavorDB-combined.ipynb contains some more graphs as its options than FlavorDB1.ipynb.
+
+If running the codes that use dash on colab or any other ide, do not use features like run-all i.e. do not run multiple codes(using dash) simultaneously on the same page.
+
+P.S. If you want to run the codes individually using python then please install and import dash in every code that uses it
